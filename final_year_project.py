@@ -148,8 +148,8 @@ class ViT(nn.Module):
 
 import matplotlib.pyplot as plt
 
-train_dir = "/content/Dataset/Dataset/Train"
-test_dir = "/content/Dataset/Dataset/Test"
+train_dir = "Dataset/Train"
+test_dir = "Dataset/Test"
 
 import os
 
